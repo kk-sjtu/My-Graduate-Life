@@ -9,4 +9,5 @@ This file aims to record my learning process in my excited、enthusiastic and en
 ## 2024.11.8
 1. explore several repositories about lstm and eventually run fine one 
 2. organize my thougnt for research and make myself goal-oriented and confident
-3. run some examples of pytorch in co-lab 
+3. run some examples of pytorch in co-lab
+4. programming exercise in Leetcode 
