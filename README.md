@@ -11,3 +11,7 @@ This file aims to record my learning process in my excited、enthusiastic and en
 2. organize my thougnt for research and make myself goal-oriented and confident
 3. run some examples of pytorch in co-lab
 4. programming exercise in Leetcode 
+
+## 2024.11.9
+1. vacation! The script of ratiocination is very nice and met some nice friends
+2. organize my time and check the ans of one leetcode problem

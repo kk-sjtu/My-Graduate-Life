@@ -47,3 +47,28 @@ break;
         return ans;}
 };
 
+
+
+//
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        unordered_map<int, int> hashtable; //哈希表
+        for (int i = 0; i < nums.size(); ++i) { //遍历数组
+            auto it = hashtable.find(target - nums[i]);//查找是否有对应的值 //返回一个迭代器指向键值为key的元素，如果没找到就返回end() //返回一个迭代器指向键值为key的元素，如果没找到就返回end()
+            if (it != hashtable.end()) { //     //如果找到了//返回一个迭代器指向键值为key的元素，如果没找到就返回end()
+                return {it->second, i};// 返回找到的值的下标和当前值的下标
+            }//如果没有找到，就把当前值和下标存入哈希表
+            hashtable[nums[i]] = i;//把当前值和下标存入哈希表 //哈希表的键是值，值是下标
+        }
+        return {};
+    }
+};
+
+
+/*
+作者：力扣官方题解
+链接：https://leetcode.cn/problems/two-sum/solutions/434597/liang-shu-zhi-he-by-leetcode-solution/
+来源：力扣（LeetCode）
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+*/
