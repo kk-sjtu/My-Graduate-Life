@@ -65,10 +65,39 @@ public:
     }
 };
 
+// 3.哈希表 good job!
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        unordered_map<int, int> map;
+        vector <int>ans;
+        
+        for(int i=0;i<nums.size();i++){
+            if(map[nums[i]] && 2*nums[i]== target ){
+            ans.push_back(map[nums[i]]-1);
+            ans.push_back(i);
+            return ans;
+            }
 
-/*
-作者：力扣官方题解
-链接：https://leetcode.cn/problems/two-sum/solutions/434597/liang-shu-zhi-he-by-leetcode-solution/
-来源：力扣（LeetCode）
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
-*/
+            else{
+            map[nums[i]] = i+1;  
+            } 
+        }
+        
+        unordered_map<int, int>::iterator iter = map.begin();
+        for( ; iter != map.end(); iter++){
+            if( map.find(target - iter->first) != map.end() && map.find(target - iter->first) !=iter) {
+                ans.push_back(iter->second-1);
+                ans.push_back(map[target - iter->first]-1);
+                return ans;
+            }
+
+            }
+        return ans;
+           
+        
+        
+    return ans;
+    }
+    
+};
