@@ -13,5 +13,13 @@ This file aims to record my learning process in my excited、enthusiastic and en
 4. programming exercise in Leetcode 
 
 ## 2024.11.9
-1. vacation! The script of ratiocination is very nice and met some nice friends
+1. vacation! The script of ratiocination is very nice and met some nice friends. ohh, it must be said is the flower my lover give me is very nice, good-smell. I love flower,love any beautiful things.
 2. organize my time and check the ans of one leetcode problem
+
+## 2024.11.10
+1. have fun in ktv. I have tried many kinds of songs with my lover.And I realize that your body is the only car in your whole life, which cannot be changed or exchanged. so you must cherich it with your whole spirit and energy. And i try other types of songs I escaped before like rap,dance song and so on. Young generation needs to be young. Dance and swing!  
+2. physical oceanography homework
+
+## 2024.11.11
+1. run and exercise. take into rapping and dancing. (Life needs enthusiastic)
+2. learn hash_map
