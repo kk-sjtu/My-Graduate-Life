@@ -23,3 +23,13 @@ This file aims to record my learning process in my excited、enthusiastic and en
 ## 2024.11.11
 1. run and exercise. take into rapping and dancing. (Life needs enthusiastic)
 2. learn hash_map
+
+## 2024.11.12
+1. learn Attention Mechanism but get less than the time i cost. I do not like deep learning
+2. learn call function for LLM
+3. download and deploy the environment of xcode
+
+## 2024.11.13
+1. LLM prompt
+2. numerical analysis homework
+3. learn primary flutter video and deploy the environment（maybe I love this
