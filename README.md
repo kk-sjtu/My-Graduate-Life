@@ -33,3 +33,8 @@ This file aims to record my learning process in my excited、enthusiastic and en
 1. LLM prompt
 2. numerical analysis homework
 3. learn primary flutter video and deploy the environment（maybe I love this
+
+## 2024.11.14
+1. learn flutter and make an app（half）：take me too much time！！！so so so many bugssss！！！
+2. find a very good deep learning resources for studying and learn it
+3. leetcode exercise 2
