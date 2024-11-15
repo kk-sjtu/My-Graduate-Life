@@ -38,3 +38,9 @@ This file aims to record my learning process in my excited、enthusiastic and en
 1. learn flutter and make an app（half）：take me too much time！！！so so so many bugssss！！！
 2. find a very good deep learning resources for studying and learn it
 3. leetcode exercise 2
+
+## 2024.11.15
+1. oceanography examination
+2. learn some common sense of earth secience like ekman and wind
+3. learn flutter widget，like container，text，decoration and so on
+4. 🌟🌟🌟 I buy some notebooks and i find writing when learn make me concentrate on the knowledge
