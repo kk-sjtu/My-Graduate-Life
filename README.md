@@ -44,3 +44,6 @@ This file aims to record my learning process in my excited、enthusiastic and en
 2. learn some common sense of earth secience like ekman and wind
 3. learn flutter widget，like container，text，decoration and so on
 4. 🌟🌟🌟 I buy some notebooks and i find writing when learn make me concentrate on the knowledge
+
+## 2024.11.16——11.19
+1. code in MarsCode addictly, and I gradually realize the help of AI for me
